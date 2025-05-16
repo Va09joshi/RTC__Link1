@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197022001798",
+    "project_id": "live-talk07",
+    "storage_bucket": "live-talk07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197022001798:android:c5002fbea66f72fc0c3f07",
+        "android_client_info": {
+          "package_name": "com.example.rtc_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3hPmOs-G6EP9sqo7KeiK8l_OAanRlbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
